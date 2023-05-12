@@ -1,0 +1,12 @@
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/bin/Debug/Mbp 104 Proje.exe.config
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/bin/Debug/Mbp 104 Proje.exe
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/bin/Debug/Mbp 104 Proje.pdb
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.csproj.AssemblyReference.cache
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp_104_Proje.Form1.resources
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp_104_Proje.Properties.Resources.resources
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.csproj.GenerateResource.cache
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.csproj.CoreCompileInputs.cache
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.exe
+C:/Users/tahag/source/repos/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.pdb
+/home/taha/tera/win/Coding/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.exe
+/home/taha/tera/win/Coding/Mbp 104 Proje/Mbp 104 Proje/obj/Debug/Mbp 104 Proje.pdb
